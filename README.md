@@ -58,21 +58,20 @@ DecisionWorx is a development house specializing in the development of software 
 Reusable Objects was a company specializing in the development of eLearning systems, Collaborative Learning Environments, and reusable learning objects. When Reusable Objects was founded by Riverbend Learning Systems, I was offered a position as Team Leader and Seinor Programmer based on my work at Edegree, their sister company. 
 In this position, I was responsible for a team of eight developers working on various web-based eLearning solutions. 
 
-##Skills
-<ul>
-    <li><img src="https://img.shields.io/badge/-Azure-0072b1?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"></li>
-    <li><img src="https://img.shields.io/badge/-Network%20Security%20Groups-ff5733?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Network Security Groups"></li>
-    <li><img src="https://img.shields.io/badge/-Firewalls-ff5733?style=for-the-badge&logo=firewall&logoColor=white" alt="Firewalls"></li>
-    <li><img src="https://img.shields.io/badge/-ACLs%20(Access%20Control%20Lists)-ff5733?style=for-the-badge&logo=access-control-list&logoColor=white" alt="ACLs (Access Control Lists)"></li>
-    <li><img src="https://img.shields.io/badge/-Virtual%20Machines-ff5733?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtual Machines"></li>
-    <li><img src="https://img.shields.io/badge/-Virtual%20Networks-ff5733?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtual Networks"></li>
-    <li><img src="https://img.shields.io/badge/-Cloud%20Computing-0072b1?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Computing"></li>
-    <li><img src="https://img.shields.io/badge/-Active%20Directory-0072b1?style=for-the-badge&logo=active-directory&logoColor=white" alt="Active Directory"></li>
-    <li><img src="https://img.shields.io/badge/-File%20Permissions-0072b1?style=for-the-badge&logo=file&logoColor=white" alt="File Permissions"></li>
-    <li><img src="https://img.shields.io/badge/-SIEM-ff5733?style=for-the-badge&logo=siem&logoColor=white" alt="SIEM"></li>
-    <li><img src="https://img.shields.io/badge/-Splunk-ff5733?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"></li>
-    <li><img src="https://img.shields.io/badge/-Python-0072b1?style=for-the-badge&logo=python&logoColor=white" alt="Python"></li>
-    <li><img src="https://img.shields.io/badge/-SOAR-0072b1?style=for-the-badge&logo=python&logoColor=white" alt="SOAR"></li>
-</ul>
+## Skills
+<img src="https://img.shields.io/badge/-Active%20Directory-0072b1?style=for-the-badge&logo=active-directory&logoColor=white" alt="Active Directory">
+<img src="https://img.shields.io/badge/-Virtual%20Machines-ff5733?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtual Machines">
+<img src="https://img.shields.io/badge/-Python-0072b1?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/-Azure-0072b1?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+<img src="https://img.shields.io/badge/-Network%20Security%20Groups-ff5733?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Network Security Groups">
+<img src="https://img.shields.io/badge/-Firewalls-ff5733?style=for-the-badge&logo=firewall&logoColor=white" alt="Firewalls">
+<img src="https://img.shields.io/badge/-File%20Permissions-0072b1?style=for-the-badge&logo=file&logoColor=white" alt="File Permissions">
+<img src="https://img.shields.io/badge/-SIEM-ff5733?style=for-the-badge&logo=siem&logoColor=white" alt="SIEM">
+<img src="https://img.shields.io/badge/-Virtual%20Networks-ff5733?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtual Networks">
+<img src="https://img.shields.io/badge/-Cloud%20Computing-0072b1?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Computing">
+<img src="https://img.shields.io/badge/-ACLs%20(Access%20Control%20Lists)-ff5733?style=for-the-badge&logo=access-control-list&logoColor=white" alt="ACLs (Access Control Lists)">
+<img src="https://img.shields.io/badge/-SOAR-0072b1?style=for-the-badge&logo=python&logoColor=white" alt="SOAR">
+<img src="https://img.shields.io/badge/-Splunk-ff5733?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk">
+
 
 
