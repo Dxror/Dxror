@@ -1,8 +1,8 @@
 # Hello, I'm Dror
 
 <a href="https://au.linkedin.com/in/droreyal"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.youtube.com/channel/UCKcQFpaOJiCOJMCotmIPsEg"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
-
+<a href="https://www.youtube.com/channel/UCKcQFpaOJiCOJMCotmIPsEg"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" /></a><a href="mailto:backupdror@gmail.com"><img src="https://img.shields.io/badge/Email-example%40example.com-blue" alt="Email">
+</a>
 💥 10+ years in IT teams || Avid Cybersecurity Technologist || Self-taught Blue Teamer || CyberDefenders || Blue Team Labs
 
 ## Objective
