@@ -24,3 +24,13 @@ I am a technology professional with over a decade of diverse IT dev experience i
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+## Experience
+
+### Company: Log(N) Pacific
+**Title:** Cyber Security Support Engineer  
+**Dates:** 4/1/2023 - Present
+
+- Implement secure cloud configurations using Azure Private Link, Network Security Groups, Microsoft Defender for Cloud, and Azure Regulatory Compliance for NIST 800-53, resulting in a X% reduction in security incidents over the same time interval.
+- Troubleshoot and support Microsoft Azure services, including Microsoft Sentinel (SIEM), Virtual Machines, Azure Monitor, and Azure Active Directory, resolving X number of issues per week on average.
+- Develop KQL queries to support Log Analytics workspace and Microsoft Sentinel, resulting in X number of new SIEM dashboards and workbooks.
