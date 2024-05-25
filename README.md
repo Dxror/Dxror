@@ -27,10 +27,31 @@ I am a technology professional with over a decade of diverse IT dev experience i
 
 ## Experience
 
-### Company: Log(N) Pacific
-**Title:** Cyber Security Support Engineer  
-**Dates:** 4/1/2023 - Present
+### Technical Delivery Coordinator
+**Company:** Investec  
+**Employment Type:** Full-time  
+**Location:** City of Johannesburg, Gauteng, South Africa (On-site)
 
-- Implement secure cloud configurations using Azure Private Link, Network Security Groups, Microsoft Defender for Cloud, and Azure Regulatory Compliance for NIST 800-53, resulting in a X% reduction in security incidents over the same time interval.
-- Troubleshoot and support Microsoft Azure services, including Microsoft Sentinel (SIEM), Virtual Machines, Azure Monitor, and Azure Active Directory, resolving X number of issues per week on average.
-- Develop KQL queries to support Log Analytics workspace and Microsoft Sentinel, resulting in X number of new SIEM dashboards and workbooks.
+**Coordinating Systems Design and Quality:**
+- Worked with external vendors and ensured quality throughout the software development lifecycle.
+- Ensured that Business Requirements Specifications met change requirements and that code delivery met design specifications.
+- Monitored the change impact of projects within a parallel development environment.
+
+### Development Team Leader and Systems Designer
+**Company:** Decisionworx  
+**Employment Type:** Full-time  
+**Location:** Pretoria, Gauteng, South Africa (On-site)
+
+DecisionWorx is a development house specializing in the development of software utilizing web-based technologies and service-oriented design. I was responsible for managing the development team as well as taking operational ownership of all systems, ensuring that the SDLC was followed from design through to User Acceptance Testing. Additionally, I managed the project management and quality assurance processes across three major projects:
+
+- A VoIP Conferencing Bridge for the US Federal Bankruptcy Court System. Value of the project was $140,000. It is currently deployed in the US market. 
+- An enterprise-level Donor Management System (CRM) based around the Cybersource Payment Gateway and E4X. Project value was $200,000. It was delivered on time.
+- A web-based booking platform for the B&B market. Project value was $120,000, and was deployed throughout southern Africa.
+
+### Team Leader and Senior Programmer
+**Company:** Reusable Objects  
+**Employment Type:** Full-time  
+**Location:** City of Johannesburg, Gauteng, South Africa (On-site)
+
+Reusable Objects was a company specializing in the development of eLearning systems, Collaborative Learning Environments, and reusable learning objects. When Reusable Objects was founded by Riverbend Learning Systems, I was offered a position as Team Leader and Seinor Programmer based on my work at Edegree, their sister company. 
+In this position, I was responsible for a team of eight developers working on various web-based eLearning solutions. 
