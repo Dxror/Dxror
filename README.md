@@ -5,6 +5,8 @@
 
 💥 10+ years in IT teams || Avid Cybersecurity Technologist || Self-taught Blue Teamer || CyberDefenders || Blue Team Labs
 
+Based in Melbourne, Australia
+
 ## Objective
 I am a technology professional with over a decade of diverse IT dev experience in a variety of languages. Experienced in stakeholder communication and technical communication in cross-functional projects. Currently transitioning from the world of software development to the realm of cybersecurity.
 
