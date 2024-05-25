@@ -57,3 +57,21 @@ DecisionWorx is a development house specializing in the development of software 
 
 Reusable Objects was a company specializing in the development of eLearning systems, Collaborative Learning Environments, and reusable learning objects. When Reusable Objects was founded by Riverbend Learning Systems, I was offered a position as Team Leader and Seinor Programmer based on my work at Edegree, their sister company. 
 In this position, I was responsible for a team of eight developers working on various web-based eLearning solutions. 
+
+##Skills
+<ul>
+    <li><a href="#"><img src="https://img.shields.io/badge/Azure-blue" alt="Azure"></a></li>
+    <li><a href="#"><img src="https://img.shields.io/badge/Network%20Security%20Groups-blue" alt="Network Security Groups"></a></li>
+    <li><a href="#"><img src="https://img.shields.io/badge/Firewalls-blue" alt="Firewalls"></a></li>
+    <li><a href="#"><img src="https://img.shields.io/badge/ACLs%20(Access%20Control%20Lists)-blue" alt="ACLs (Access Control Lists)"></a></li>
+    <li><a href="#"><img src="https://img.shields.io/badge/Virtual%20Machines-blue" alt="Virtual Machines"></a></li>
+    <li><a href="#"><img src="https://img.shields.io/badge/Virtual%20Networks-blue" alt="Virtual Networks"></a></li>
+    <li><a href="#"><img src="https://img.shields.io/badge/Cloud%20Computing-blue" alt="Cloud Computing"></a></li>
+    <li><a href="#"><img src="https://img.shields.io/badge/Active%20Directory-blue" alt="Active Directory"></a></li>
+    <li><a href="#"><img src="https://img.shields.io/badge/File%20Permissions-blue" alt="File Permissions"></a></li>
+    <li><a href="#"><img src="https://img.shields.io/badge/SIEM-blue" alt="SIEM"></a></li>
+    <li><a href="#"><img src="https://img.shields.io/badge/Splunk-blue" alt="Splunk"></a></li>
+    <li><a href="#"><img src="https://img.shields.io/badge/Python-blue" alt="Python"></a></li>
+    <li><a href="#"><img src="https://img.shields.io/badge/SOAR-blue" alt="SOAR"></a></li>
+</ul>
+
