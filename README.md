@@ -25,7 +25,7 @@ I am a technology professional with over a decade of diverse IT dev experience i
 - Detection Lab
 - SOC Automation Project
 
-## Experience
+## Experience Highlights
 
 ### Technical Delivery Coordinator
 **Company:** Investec  
