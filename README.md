@@ -26,7 +26,7 @@ I am a technology professional with over a decade of diverse IT dev experience i
 ## Experience Highlights
 
 ### Technical Delivery Coordinator
-**Company:** Investec  
+**Company:** Investec Private Bank  
 **Employment Type:** Full-time  
 **Location:** City of Johannesburg, Gauteng, South Africa (On-site)
 
