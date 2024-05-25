@@ -60,18 +60,19 @@ In this position, I was responsible for a team of eight developers working on va
 
 ##Skills
 <ul>
-    <li><a href="#"><img src="https://img.shields.io/badge/Azure-blue" alt="Azure"></a></li>
-    <li><a href="#"><img src="https://img.shields.io/badge/Network%20Security%20Groups-blue" alt="Network Security Groups"></a></li>
-    <li><a href="#"><img src="https://img.shields.io/badge/Firewalls-blue" alt="Firewalls"></a></li>
-    <li><a href="#"><img src="https://img.shields.io/badge/ACLs%20(Access%20Control%20Lists)-blue" alt="ACLs (Access Control Lists)"></a></li>
-    <li><a href="#"><img src="https://img.shields.io/badge/Virtual%20Machines-blue" alt="Virtual Machines"></a></li>
-    <li><a href="#"><img src="https://img.shields.io/badge/Virtual%20Networks-blue" alt="Virtual Networks"></a></li>
-    <li><a href="#"><img src="https://img.shields.io/badge/Cloud%20Computing-blue" alt="Cloud Computing"></a></li>
-    <li><a href="#"><img src="https://img.shields.io/badge/Active%20Directory-blue" alt="Active Directory"></a></li>
-    <li><a href="#"><img src="https://img.shields.io/badge/File%20Permissions-blue" alt="File Permissions"></a></li>
-    <li><a href="#"><img src="https://img.shields.io/badge/SIEM-blue" alt="SIEM"></a></li>
-    <li><a href="#"><img src="https://img.shields.io/badge/Splunk-blue" alt="Splunk"></a></li>
-    <li><a href="#"><img src="https://img.shields.io/badge/Python-blue" alt="Python"></a></li>
-    <li><a href="#"><img src="https://img.shields.io/badge/SOAR-blue" alt="SOAR"></a></li>
+    <li><img src="https://img.shields.io/badge/-Azure-0072b1?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"></li>
+    <li><img src="https://img.shields.io/badge/-Network%20Security%20Groups-ff5733?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Network Security Groups"></li>
+    <li><img src="https://img.shields.io/badge/-Firewalls-ff5733?style=for-the-badge&logo=firewall&logoColor=white" alt="Firewalls"></li>
+    <li><img src="https://img.shields.io/badge/-ACLs%20(Access%20Control%20Lists)-ff5733?style=for-the-badge&logo=access-control-list&logoColor=white" alt="ACLs (Access Control Lists)"></li>
+    <li><img src="https://img.shields.io/badge/-Virtual%20Machines-ff5733?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtual Machines"></li>
+    <li><img src="https://img.shields.io/badge/-Virtual%20Networks-ff5733?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtual Networks"></li>
+    <li><img src="https://img.shields.io/badge/-Cloud%20Computing-0072b1?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Computing"></li>
+    <li><img src="https://img.shields.io/badge/-Active%20Directory-0072b1?style=for-the-badge&logo=active-directory&logoColor=white" alt="Active Directory"></li>
+    <li><img src="https://img.shields.io/badge/-File%20Permissions-0072b1?style=for-the-badge&logo=file&logoColor=white" alt="File Permissions"></li>
+    <li><img src="https://img.shields.io/badge/-SIEM-ff5733?style=for-the-badge&logo=siem&logoColor=white" alt="SIEM"></li>
+    <li><img src="https://img.shields.io/badge/-Splunk-ff5733?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"></li>
+    <li><img src="https://img.shields.io/badge/-Python-0072b1?style=for-the-badge&logo=python&logoColor=white" alt="Python"></li>
+    <li><img src="https://img.shields.io/badge/-SOAR-0072b1?style=for-the-badge&logo=python&logoColor=white" alt="SOAR"></li>
 </ul>
+
 
