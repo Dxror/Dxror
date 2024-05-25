@@ -1,7 +1,7 @@
 # Hello, I'm Dror
 
 <a href="https://au.linkedin.com/in/droreyal"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<a href="https://www.youtube.com/channel/UCKcQFpaOJiCOJMCotmIPsEg"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 [Brief Introduction - Remove this afterwards]
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
