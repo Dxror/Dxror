@@ -13,7 +13,7 @@ Currently transitioning from the world of software development to the realm of c
 - Splunk Power User Certified
 - Experience with UNIX/Linux and Windows environments
 - Experienced in stakeholder communication and technical communication in cross-functional projects. 
-- Multiple programming/scripting languages (e.g., Perl, Java, Python, etc.)
+- Multiple programming/scripting languages (e.g., Python, Javascript, PHP etc.)
 - SQL - Experience writing and executing SQL queries
 - Static/dynamic malware analysis
 - Digital forensics and incident response concepts and procedures
