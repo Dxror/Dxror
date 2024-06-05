@@ -8,7 +8,17 @@
 Based in Melbourne, Australia
 
 ## Objective
-I am a technology professional with over a decade of diverse IT dev experience in a variety of languages. Experienced in stakeholder communication and technical communication in cross-functional projects. Currently transitioning from the world of software development to the realm of cybersecurity.
+Currently transitioning from the world of software development to the realm of cybersecurity.
+
+- Splunk Power User
+- Experience with UNIX/Linux and Windows environments
+- Experienced in stakeholder communication and technical communication in cross-functional projects. 
+- Multiple programming/scripting languages (e.g., Perl, Java, Python, etc.)
+- SQL - Experience writing and executing SQL queries
+- Static/dynamic malware analysis
+- Digital forensics and incident response concepts and procedures
+- Strong Operating System Administration skills
+- Knowledge of industry-standard frameworks (MITRE ATT&CK, Cyber Kill Chain)
 
 ## Projects
 
