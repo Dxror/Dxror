@@ -10,7 +10,7 @@ Based in Melbourne, Australia
 ## Objective
 Currently transitioning from the world of software development to the realm of cybersecurity.
 
-- Splunk Power User
+- Splunk Power User Certified
 - Experience with UNIX/Linux and Windows environments
 - Experienced in stakeholder communication and technical communication in cross-functional projects. 
 - Multiple programming/scripting languages (e.g., Perl, Java, Python, etc.)
